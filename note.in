@@ -1,0 +1,32 @@
+pendahuluan
+dasar teori
+- PRNG
+- marsenne twister
+- diehard test
+metode analisis
+- metode klasik
+- diehard test
+eksperimen dan hasil
+- 5 buah 
+penutup
+
+frekuensi test
+serial test (2, 2)
+poker test (5, 5)
+gap test
+
+
+anova
+
+frequency
+serial
+poker
+
+overlapping permutations
+minimum distance set
+parking lot test
+overlapping sums test
+the squeeze test
+
+
+referensi
